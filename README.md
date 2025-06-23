@@ -176,20 +176,6 @@ class BasicBot:
 | **LIMIT** | Execute only when price reaches specified level | symbol, side, quantity, price |
 | **STOP_MARKET** | Trigger market order when stop price is reached | symbol, side, quantity, stop_price |
 
-## 📸 Screenshots
-
-### Web Interface
-![Trading Interface](screenshots/web-interface.png)
-*Modern Streamlit web interface with real-time trading capabilities*
-
-### Order Execution
-![Order Success](screenshots/order-success.png)
-*Successful order placement with JSON response display*
-
-### CLI Interface
-![CLI Interface](screenshots/cli-interface.png)
-*Command-line interface for programmatic trading*
-
 ## 📁 Project Structure
 
 ```
@@ -281,11 +267,7 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/crypto-trading-bot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/crypto-trading-bot/discussions)
-- **Email**: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -296,6 +278,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ **Star this repository if it helped you!**
-
-Made with ❤️ for the crypto trading community
